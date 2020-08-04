@@ -1,7 +1,8 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/filipedeschamps/video-maker) 
 
 # making-videos-automatically
-Projeto open source para fazer vídeos automatizados
+Projeto open source para fazer vídeos automatizados.
+Projeto inicial desenvolvido por [Filipe Deschamps](https://github.com/filipedeschamps) 
 
 # Pré requisitos
 
