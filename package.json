@@ -1,0 +1,31 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-ferreira10/making-videos-automatically.git"
+  },
+  "author": "Léo Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo-ferreira10/making-videos-automatically/issues"
+  },
+  "homepage": "https://github.com/leo-ferreira10/making-videos-automatically#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "express": "^4.17.1",
+    "gm": "^1.23.1",
+    "googleapis": "^57.0.0",
+    "image-downloader": "^3.4.2",
+    "open": "^7.1.0",
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.14",
+    "watson-developer-cloud": "^3.18.2"
+  }
+}
